@@ -1,4 +1,5 @@
 # Heads product documentation
 
-* [Heads Retail](/docs/retail/index)
-* [Commerce OS](docs/cos/index)
+* [Test] (test.md)
+* [Heads Retail](/retail/index.md)
+* [Commerce OS](cos/index.md)
